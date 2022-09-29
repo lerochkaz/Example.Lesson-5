@@ -1,0 +1,15 @@
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\bin\Debug\net6.0\Examples. Lesson 5.exe
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\bin\Debug\net6.0\Examples. Lesson 5.deps.json
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\bin\Debug\net6.0\Examples. Lesson 5.runtimeconfig.json
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\bin\Debug\net6.0\Examples. Lesson 5.dll
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\bin\Debug\net6.0\Examples. Lesson 5.pdb
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\Examples. Lesson 5.csproj.AssemblyReference.cache
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\Examples. Lesson 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\Examples. Lesson 5.AssemblyInfoInputs.cache
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\Examples. Lesson 5.AssemblyInfo.cs
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\Examples. Lesson 5.csproj.CoreCompileInputs.cache
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\Examples. Lesson 5.dll
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\refint\Examples. Lesson 5.dll
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\Examples. Lesson 5.pdb
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\Examples. Lesson 5.genruntimeconfig.cache
+D:\projects\Examples\Examples. Lesson 5\Examples. Lesson 5\obj\Debug\net6.0\ref\Examples. Lesson 5.dll
